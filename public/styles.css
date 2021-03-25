@@ -1,0 +1,17 @@
+h1 {
+    font-size: 32;
+    margin-left: 20px;
+}
+
+#container {
+    background-color: aliceblue;
+}
+
+body {
+    background-color: cornflowerblue;
+}
+
+table {
+    background-color: ivory;
+}
+
